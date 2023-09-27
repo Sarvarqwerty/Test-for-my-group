@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container ul{
+    display:flex;
+}
+.container ul li{
+    list-style: none;
+    margin-right: 20px;
+}
+.container ul li a{
+    text-decoration: none;
+}
